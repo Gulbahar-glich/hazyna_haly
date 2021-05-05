@@ -620,7 +620,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 .fix-menu-desktop .wrap-menu-desktop {
   height: 70px;
-  background-color: #343a40d1;
+  background-color: #ffffffe6;
   box-shadow: 0 0px 3px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: 0 0px 3px 0px rgba(0,0,0,0.2);
   -webkit-box-shadow: 0 0px 3px 0px rgba(0,0,0,0.2);
